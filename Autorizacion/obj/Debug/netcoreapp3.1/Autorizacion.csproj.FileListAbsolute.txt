@@ -1,0 +1,13 @@
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.exe
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.deps.json
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.runtimeconfig.json
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.runtimeconfig.dev.json
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.dll
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\bin\Debug\netcoreapp3.1\Autorizacion.pdb
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.AssemblyInfoInputs.cache
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.AssemblyInfo.cs
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.dll
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.pdb
+C:\Users\José\Desktop\Testing Basico\Autorizacion\Autorizacion\obj\Debug\netcoreapp3.1\Autorizacion.genruntimeconfig.cache
